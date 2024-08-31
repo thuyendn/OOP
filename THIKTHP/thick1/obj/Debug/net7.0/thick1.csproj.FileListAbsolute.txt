@@ -1,0 +1,14 @@
+D:\THIKTHP\thick1\obj\Debug\net7.0\thick1.GeneratedMSBuildEditorConfig.editorconfig
+D:\THIKTHP\thick1\obj\Debug\net7.0\thick1.AssemblyInfoInputs.cache
+D:\THIKTHP\thick1\obj\Debug\net7.0\thick1.AssemblyInfo.cs
+D:\THIKTHP\thick1\obj\Debug\net7.0\thick1.csproj.CoreCompileInputs.cache
+D:\THIKTHP\thick1\bin\Debug\net7.0\thick1.exe
+D:\THIKTHP\thick1\bin\Debug\net7.0\thick1.deps.json
+D:\THIKTHP\thick1\bin\Debug\net7.0\thick1.runtimeconfig.json
+D:\THIKTHP\thick1\bin\Debug\net7.0\thick1.dll
+D:\THIKTHP\thick1\bin\Debug\net7.0\thick1.pdb
+D:\THIKTHP\thick1\obj\Debug\net7.0\thick1.dll
+D:\THIKTHP\thick1\obj\Debug\net7.0\refint\thick1.dll
+D:\THIKTHP\thick1\obj\Debug\net7.0\thick1.pdb
+D:\THIKTHP\thick1\obj\Debug\net7.0\thick1.genruntimeconfig.cache
+D:\THIKTHP\thick1\obj\Debug\net7.0\ref\thick1.dll

@@ -1,0 +1,14 @@
+D:\OOP\btchuong4\vd\obj\Debug\net7.0\vd.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\btchuong4\vd\obj\Debug\net7.0\vd.AssemblyInfoInputs.cache
+D:\OOP\btchuong4\vd\obj\Debug\net7.0\vd.AssemblyInfo.cs
+D:\OOP\btchuong4\vd\obj\Debug\net7.0\vd.csproj.CoreCompileInputs.cache
+D:\OOP\btchuong4\vd\bin\Debug\net7.0\vd.exe
+D:\OOP\btchuong4\vd\bin\Debug\net7.0\vd.deps.json
+D:\OOP\btchuong4\vd\bin\Debug\net7.0\vd.runtimeconfig.json
+D:\OOP\btchuong4\vd\bin\Debug\net7.0\vd.dll
+D:\OOP\btchuong4\vd\bin\Debug\net7.0\vd.pdb
+D:\OOP\btchuong4\vd\obj\Debug\net7.0\vd.dll
+D:\OOP\btchuong4\vd\obj\Debug\net7.0\refint\vd.dll
+D:\OOP\btchuong4\vd\obj\Debug\net7.0\vd.pdb
+D:\OOP\btchuong4\vd\obj\Debug\net7.0\vd.genruntimeconfig.cache
+D:\OOP\btchuong4\vd\obj\Debug\net7.0\ref\vd.dll
