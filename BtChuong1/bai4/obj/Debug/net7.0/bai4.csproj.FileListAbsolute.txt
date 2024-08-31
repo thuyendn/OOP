@@ -1,0 +1,14 @@
+D:\OOP\BtChuong1\bai4\bin\Debug\net7.0\bai4.exe
+D:\OOP\BtChuong1\bai4\bin\Debug\net7.0\bai4.deps.json
+D:\OOP\BtChuong1\bai4\bin\Debug\net7.0\bai4.runtimeconfig.json
+D:\OOP\BtChuong1\bai4\bin\Debug\net7.0\bai4.dll
+D:\OOP\BtChuong1\bai4\bin\Debug\net7.0\bai4.pdb
+D:\OOP\BtChuong1\bai4\obj\Debug\net7.0\bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BtChuong1\bai4\obj\Debug\net7.0\bai4.AssemblyInfoInputs.cache
+D:\OOP\BtChuong1\bai4\obj\Debug\net7.0\bai4.AssemblyInfo.cs
+D:\OOP\BtChuong1\bai4\obj\Debug\net7.0\bai4.csproj.CoreCompileInputs.cache
+D:\OOP\BtChuong1\bai4\obj\Debug\net7.0\bai4.dll
+D:\OOP\BtChuong1\bai4\obj\Debug\net7.0\refint\bai4.dll
+D:\OOP\BtChuong1\bai4\obj\Debug\net7.0\bai4.pdb
+D:\OOP\BtChuong1\bai4\obj\Debug\net7.0\bai4.genruntimeconfig.cache
+D:\OOP\BtChuong1\bai4\obj\Debug\net7.0\ref\bai4.dll

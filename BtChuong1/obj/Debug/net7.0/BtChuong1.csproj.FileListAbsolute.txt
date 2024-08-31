@@ -1,0 +1,4 @@
+D:\OOP\BtChuong1\obj\Debug\net7.0\BtChuong1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BtChuong1\obj\Debug\net7.0\BtChuong1.AssemblyInfoInputs.cache
+D:\OOP\BtChuong1\obj\Debug\net7.0\BtChuong1.AssemblyInfo.cs
+D:\OOP\BtChuong1\obj\Debug\net7.0\BtChuong1.csproj.CoreCompileInputs.cache
