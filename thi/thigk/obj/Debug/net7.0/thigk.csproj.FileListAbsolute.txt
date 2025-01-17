@@ -1,0 +1,14 @@
+D:\thi\thigk\obj\Debug\net7.0\thigk.GeneratedMSBuildEditorConfig.editorconfig
+D:\thi\thigk\obj\Debug\net7.0\thigk.AssemblyInfoInputs.cache
+D:\thi\thigk\obj\Debug\net7.0\thigk.AssemblyInfo.cs
+D:\thi\thigk\obj\Debug\net7.0\thigk.csproj.CoreCompileInputs.cache
+D:\thi\thigk\bin\Debug\net7.0\thigk.exe
+D:\thi\thigk\bin\Debug\net7.0\thigk.deps.json
+D:\thi\thigk\bin\Debug\net7.0\thigk.runtimeconfig.json
+D:\thi\thigk\bin\Debug\net7.0\thigk.dll
+D:\thi\thigk\bin\Debug\net7.0\thigk.pdb
+D:\thi\thigk\obj\Debug\net7.0\thigk.dll
+D:\thi\thigk\obj\Debug\net7.0\refint\thigk.dll
+D:\thi\thigk\obj\Debug\net7.0\thigk.pdb
+D:\thi\thigk\obj\Debug\net7.0\thigk.genruntimeconfig.cache
+D:\thi\thigk\obj\Debug\net7.0\ref\thigk.dll

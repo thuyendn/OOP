@@ -1,0 +1,14 @@
+D:\OOP\btchuong6\bai2\bin\Debug\net7.0\bai2.exe
+D:\OOP\btchuong6\bai2\bin\Debug\net7.0\bai2.deps.json
+D:\OOP\btchuong6\bai2\bin\Debug\net7.0\bai2.runtimeconfig.json
+D:\OOP\btchuong6\bai2\bin\Debug\net7.0\bai2.dll
+D:\OOP\btchuong6\bai2\bin\Debug\net7.0\bai2.pdb
+D:\OOP\btchuong6\bai2\obj\Debug\net7.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\btchuong6\bai2\obj\Debug\net7.0\bai2.AssemblyInfoInputs.cache
+D:\OOP\btchuong6\bai2\obj\Debug\net7.0\bai2.AssemblyInfo.cs
+D:\OOP\btchuong6\bai2\obj\Debug\net7.0\bai2.csproj.CoreCompileInputs.cache
+D:\OOP\btchuong6\bai2\obj\Debug\net7.0\bai2.dll
+D:\OOP\btchuong6\bai2\obj\Debug\net7.0\refint\bai2.dll
+D:\OOP\btchuong6\bai2\obj\Debug\net7.0\bai2.pdb
+D:\OOP\btchuong6\bai2\obj\Debug\net7.0\bai2.genruntimeconfig.cache
+D:\OOP\btchuong6\bai2\obj\Debug\net7.0\ref\bai2.dll

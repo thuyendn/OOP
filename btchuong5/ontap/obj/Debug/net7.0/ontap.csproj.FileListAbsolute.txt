@@ -1,0 +1,14 @@
+D:\OOP\btchuong5\ontap\bin\Debug\net7.0\ontap.exe
+D:\OOP\btchuong5\ontap\bin\Debug\net7.0\ontap.deps.json
+D:\OOP\btchuong5\ontap\bin\Debug\net7.0\ontap.runtimeconfig.json
+D:\OOP\btchuong5\ontap\bin\Debug\net7.0\ontap.dll
+D:\OOP\btchuong5\ontap\bin\Debug\net7.0\ontap.pdb
+D:\OOP\btchuong5\ontap\obj\Debug\net7.0\ontap.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\btchuong5\ontap\obj\Debug\net7.0\ontap.AssemblyInfoInputs.cache
+D:\OOP\btchuong5\ontap\obj\Debug\net7.0\ontap.AssemblyInfo.cs
+D:\OOP\btchuong5\ontap\obj\Debug\net7.0\ontap.csproj.CoreCompileInputs.cache
+D:\OOP\btchuong5\ontap\obj\Debug\net7.0\ontap.dll
+D:\OOP\btchuong5\ontap\obj\Debug\net7.0\refint\ontap.dll
+D:\OOP\btchuong5\ontap\obj\Debug\net7.0\ontap.pdb
+D:\OOP\btchuong5\ontap\obj\Debug\net7.0\ontap.genruntimeconfig.cache
+D:\OOP\btchuong5\ontap\obj\Debug\net7.0\ref\ontap.dll

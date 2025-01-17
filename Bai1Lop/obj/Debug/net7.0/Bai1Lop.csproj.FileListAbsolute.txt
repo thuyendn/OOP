@@ -1,0 +1,14 @@
+D:\OOP\Bai1Lop\bin\Debug\net7.0\Bai1Lop.exe
+D:\OOP\Bai1Lop\bin\Debug\net7.0\Bai1Lop.deps.json
+D:\OOP\Bai1Lop\bin\Debug\net7.0\Bai1Lop.runtimeconfig.json
+D:\OOP\Bai1Lop\bin\Debug\net7.0\Bai1Lop.dll
+D:\OOP\Bai1Lop\bin\Debug\net7.0\Bai1Lop.pdb
+D:\OOP\Bai1Lop\obj\Debug\net7.0\Bai1Lop.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Bai1Lop\obj\Debug\net7.0\Bai1Lop.AssemblyInfoInputs.cache
+D:\OOP\Bai1Lop\obj\Debug\net7.0\Bai1Lop.AssemblyInfo.cs
+D:\OOP\Bai1Lop\obj\Debug\net7.0\Bai1Lop.csproj.CoreCompileInputs.cache
+D:\OOP\Bai1Lop\obj\Debug\net7.0\Bai1Lop.dll
+D:\OOP\Bai1Lop\obj\Debug\net7.0\refint\Bai1Lop.dll
+D:\OOP\Bai1Lop\obj\Debug\net7.0\Bai1Lop.pdb
+D:\OOP\Bai1Lop\obj\Debug\net7.0\Bai1Lop.genruntimeconfig.cache
+D:\OOP\Bai1Lop\obj\Debug\net7.0\ref\Bai1Lop.dll
